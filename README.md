@@ -1,4 +1,4 @@
-# Número Secreto
+# ✨Número Secreto
 Implementación del juego secreto en Alura Latam. 
 
 "Número Secreto" es una aplicación web simple desarrollada utilizando HTML, CSS, y JavaScript. Esta aplicación permite a los usuarios divertirse e entretenerse adivinando un numero entre 1 y 10. 
