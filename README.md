@@ -1,4 +1,4 @@
-# numero-secreto
+# Número Secreto
 Implementación del juego secreto en Alura Latam. 
 
 "Número Secreto" es una aplicación web simple desarrollada utilizando HTML, CSS, y JavaScript. Esta aplicación permite a los usuarios divertirse e entretenerse adivinando un numero entre 1 y 10. 
@@ -6,4 +6,9 @@ Al acceder a la aplicación, los usuarios son recibidos con una interfaz intuiti
 Este proyecto es ideal para cualquier persona que quiera distraerse y jugar un rato. La aplicación es fácil de usar, rápida y proporciona resultados precisos. 
 El repositorio Git asociado con el proyecto facilita la colaboración y el control de versiones, permitiendo a los desarrolladores rastrear y gestionar los cambios realizados en el código a lo largo del tiempo.
 
+## 🚀 About Me
+I'm Helen Romina. I love to design and create website. 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romina-cruz-/)
 
